@@ -25,8 +25,9 @@
 
 - :zap: In my free time, I guide people in reddit about the problems on Start-Up and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-hassan-6a17b71b7)
-
+- :mailbox:How to reach me: vishnuhassan007@gmail.com
+---
+:hammer_and_wrench: Languages and Tools :
 <!---
 vishnuhassan/vishnuhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
