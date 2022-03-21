@@ -39,8 +39,7 @@
    
 </div>
 :fire: My Stats :
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishnuhassan&theme=buefy&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishnuhassan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!---
 vishnuhassan/vishnuhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
