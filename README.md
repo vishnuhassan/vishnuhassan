@@ -1,8 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+</div>
 - 👋 Hi, I’m @vishnuhassan
 - 👀 I’m interested in back-end development   
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate with startup or well reputed organization
-- 📫 How to reach me vishnuhassan007@gmail.com
+- 📫 How to reach me vishnuhassan007@gmail.com 
 
 <!---
 vishnuhassan/vishnuhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
