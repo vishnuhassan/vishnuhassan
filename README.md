@@ -17,7 +17,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   </h1>
-  <div class="tenor-gif-embed" data-postid="24040429" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">Xero Code Sticker</a>from <a href="https://tenor.com/search/xero-stickers">Xero Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed"><img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+  </div>
 
 <hr>
  :man_technologist: About Me :
