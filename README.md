@@ -17,7 +17,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   </h1>
-    <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="" width="300px" height="300px"/>
+    <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt=""/>
 <hr>
  :man_technologist: About Me :
 
