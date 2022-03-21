@@ -16,13 +16,18 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
-### :man_technologist: About Me :
-- 👋 Hi, I’m @vishnuhassan
-- 👀 I’m interested in back-end development   
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate with startup or well reputed organization
-- 📫 How to reach me vishnuhassan007@gmail.com 
+<hr>
+ :man_technologist: About Me :
+ 
+ I am a Back-End Developer from India.
+
+- :telescope: I’m a Software Engineer and contributing backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I guide people in reddit about the problems on Start-Up and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <!---
 vishnuhassan/vishnuhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
