@@ -17,7 +17,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   </h1>
-
+    <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="" width="300px" height="300px"/>
 <hr>
  :man_technologist: About Me :
 
@@ -43,7 +43,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishnuhassan&theme=darcula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuhassan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 vishnuhassan/vishnuhassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
