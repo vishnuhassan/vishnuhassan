@@ -11,7 +11,7 @@
   <a href="https://twitter.com/vishnuhassanR">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=vishnuhassan" alt="profile-views">
+  <img src="https://komarev.com/ghpvc/?username=vishnuhassan&style=plastic" alt="profile-views">
 </div>
   <h1 align="center">
   hey there
