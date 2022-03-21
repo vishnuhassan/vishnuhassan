@@ -17,7 +17,8 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   </h1>
-  <div class="tenor-gif-embed"><img src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
+  <div>
+  <img src="https://tenor.com/bM2a1.gif" width="200px" height="200px"/>
   </div>
 
 <hr>
