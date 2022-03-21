@@ -11,13 +11,15 @@
   <a href="https://twitter.com/vishnuhassanR">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br>
-  ![](https://komarev.com/ghpvc/?username=vishnuhassan)
+  <img src="https://komarev.com/ghpvc/?username=vishnuhassan" alt="profile-views">
 </div>
   <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
   </h1>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <hr>
  :man_technologist: About Me :
 
