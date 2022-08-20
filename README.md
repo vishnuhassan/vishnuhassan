@@ -20,7 +20,7 @@
 <hr>
  :man_technologist: About Me :
 
-- :telescope: I’m a Software Engineer and contribute in all phases of the product development life cycle.
+- :telescope: I’m a Python Developer and contribute in all phases of the product development life cycle.
 
 - :seedling: Exploring Technical Content Writing.
 
