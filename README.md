@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I guide people in reddit about the problems on Start-Up and read tech articles.
 
-- :mailbox:How to reach me: vishnuhassan007@gmail.com
+- :mailbox:How to reach me: vishnuhassan98@gmail.com
 ---
 :hammer_and_wrench: Languages and Tools :
 <div>
