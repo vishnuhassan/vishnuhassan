@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/vishnuhassanR">
-    <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/xcom-logo-twitter-rebranding" alt="Twitter Badge"/>
+    <img src="https://logos-world.net/x-logo/" alt="Twitter Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=vishnuhassan&style=plastic&color=green" alt="profile-views">
 </div>
