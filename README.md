@@ -4,9 +4,6 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vishnu-hassan-6a17b71b7">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/vishnuhassanR">
-    <img src="https://logos-world.net/x-logo/" alt="Twitter Badge"/>
   </a><br>
   <img src="https://komarev.com/ghpvc/?username=vishnuhassan&style=plastic&color=green" alt="profile-views">
 </div>
