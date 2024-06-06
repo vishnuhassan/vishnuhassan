@@ -20,7 +20,11 @@
 <hr>
  :man_technologist: About Me :
 
-- :telescope: I’m a Python Developer and contribute in all phases of the product development life cycle.
+- :telescope: Experienced Python Developer with over 5 years of expertise in developing highly interactive web-based applications, particularly utilizing Python and AWS resources. Proven track record in cloud computing with a focus on Amazon Web Services (AWS). Specialized in Infrastructure as Code (IaC) using AWS Cloud Development Kit (CDK) and Terraform.
+Adept in DevOps practices, including Continuous Integration (CI) and Continuous Deployment (CD), along with automation. Extensive knowledge in various AWS cloud services, including Compute Services (EC2, Lambda), Storage Services (S3), Messaging Services(SNS, SQS) and Networking (VPC, Route 53).
+Proficient in containerization with Docker and familiar with Kubernetes. Skilled in configuration management, with optional experience in Ansible. Well-versed in version control using Git and scripting languages, including Shell scripting if applicable.
+Experience in monitoring and logging using CloudWatch. Strong emphasis on security practices, including AWS Identity and Access Management (IAM) and management of Security Groups and Network ACLs.
+Expertise in database management, utilizing AWS RDS (Relational Database Service) and DynamoDB for NoSQL databases. Collaborative and communicative team player, utilizing version control (Git) and project management tools such as JIRA.
 
 - :seedling: Exploring Technical Content Writing.
 
